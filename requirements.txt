@@ -1,0 +1,4 @@
+obs-websocket-py==0.5.3
+paho-mqtt==1.6.1
+six==1.16.0
+websocket-client==1.2.3
